@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Haeherfeder
 - 📫 How to reach me: 
-  - discord: haeherfeder#9483
+  - discord: haeherfeder
   - threema: if asks
   - email: github-contact@haeherfeder.de
 
